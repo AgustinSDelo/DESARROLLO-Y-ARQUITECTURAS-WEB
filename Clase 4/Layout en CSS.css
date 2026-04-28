@@ -1,0 +1,46 @@
+/* Modificaciones a realizar:
+Mover el menú a la derecha: Escribe el código CSS 
+necesario para que el menú de navegación (#menu) 
+se visualice al lado derecho del contenido principal 
+(#contenido). Considera cómo puedes lograr este diseño 
+utilizando propiedades de CSS.
+Eliminar el menú: Escribe el código CSS necesario 
+para que el menú de navegación (#menu) no se visualice 
+en la página.
+Ocultar el pie de página: Escribe el código CSS 
+necesario para que el pie de página (#pie) no sea 
+visible en la página.
+Ocultar el encabezado: Escribe el código CSS 
+necesario para que la cabecera (#cabecera) no se 
+muestre en la página. */
+
+.Contenedor {
+    width: 100vw;
+    height: 100vh;
+}
+.Cabecera {
+    float: left;
+    width: 100vw;
+    height: 10vh;
+    background-color: #d4d4d4;
+    text-align: center;
+}
+.Menu {
+    background-color: #887d7d;
+    width: 15vw;
+    float: left;
+    text-align: center;
+    height: 25vh;
+}
+.Contenido {
+    background-color: #e4e4e4;
+    width: 85vw;
+    float: left;
+    text-align: center;
+    height: 60vh;
+}
+.Pie {
+    clear: both;
+    background-color: #c4c4c4;
+    text-align: center;
+}
