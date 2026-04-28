@@ -44,4 +44,5 @@ muestre en la página. */
     clear: both;
     background-color: #c4c4c4;
     text-align: center;
+    visibility: hidden;
 }
