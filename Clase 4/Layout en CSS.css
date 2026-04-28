@@ -25,13 +25,14 @@ muestre en la página. */
     background-color: #d4d4d4;
     text-align: center;
 }
-.Menu {
+/* .Menu {
     background-color: #887d7d;
     width: 15vw;
     float: right;
     text-align: center;
     height: 25vh;
-}
+    
+} */
 .Contenido {
     background-color: #e4e4e4;
     width: 85vw;
