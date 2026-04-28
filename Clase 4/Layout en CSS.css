@@ -24,6 +24,7 @@ muestre en la página. */
     height: 10vh;
     background-color: #d4d4d4;
     text-align: center;
+    visibility: hidden;
 }
 /* .Menu {
     background-color: #887d7d;
