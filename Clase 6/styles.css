@@ -1,0 +1,16 @@
+@import url(./styles/container.css);
+@import url(./styles/header.css);
+@import url(./styles/main.css);
+@import url(./styles/aside.css);
+@import url(./styles/article.css);
+@import url(./styles/footer.css);
+
+/* Estilo general del cuerpo */
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
